@@ -18,9 +18,8 @@ Video of the application:
   
 ![social-network](./assets/demo.gif)
 
-```
-(https://www.youtube.com/watch?v=TSOyJ8zWUrs&feature=youtu.be)
-```
+<a href="https://www.youtube.com/watch?v=TSOyJ8zWUrs&feature=youtu.be">Youtube</a>
+
 
 ## User Story
 
