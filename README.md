@@ -2,12 +2,12 @@
 
   
 <p align="center">
+    <img src="https://img.shields.io/badge/nodemon-green" />
+    <img src="https://img.shields.io/badge/moment-blue"  />
     <img src="https://img.shields.io/badge/javascript-yellow" />
     <img src="https://img.shields.io/badge/express-orange" />
     <img src="https://img.shields.io/badge/MongoDB-blue"  />
     <img src="https://img.shields.io/badge/mongoose-red"  />
-    <img src="https://img.shields.io/badge/moment-blue"  />
-    <img src="https://img.shields.io/badge/nodemon-green" />
 </p>
    
 ## Description
@@ -17,7 +17,10 @@
 Video of the application:
   
 ![social-network](./assets/demo.gif)
-![Youtube](https://www.youtube.com/watch?v=TSOyJ8zWUrs&feature=youtu.be)
+
+```
+(https://www.youtube.com/watch?v=TSOyJ8zWUrs&feature=youtu.be)
+```
 
 ## User Story
 
